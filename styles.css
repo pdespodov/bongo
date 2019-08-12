@@ -1,0 +1,29 @@
+body {
+    background-color: #FEFEFE;
+}
+
+#cavewoman {
+    width: 200px;
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.colored-letters {
+    color: #B86001;
+}
+
+.heading {
+    text-align: center;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+#main-heading {
+    font-size: 1.5rem;
+}
+
+#secondary-heading {
+    font-size: 1rem;
+}
